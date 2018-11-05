@@ -28,7 +28,7 @@ class Solution {
       }
 
       ListNode p1 = head;
-      ListNode midNode = getMidEnd(head);
+      ListNode midNode = getMidNode(head);
       ListNode p2 = midNode.next;
       midNode.next = null;
 
@@ -38,7 +38,7 @@ class Solution {
       return merge(p1, p2);
   }
 
-  private ListNode getMidEnd(ListNode head) {
+  private ListNode getMidNode(ListNode head) {
     ListNode m1 = head;
     ListNode m2 = head;
     while(m1 != null && m2 != null) {

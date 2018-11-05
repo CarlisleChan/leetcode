@@ -7,6 +7,7 @@ LeetCode
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [kotlin](./problem/2.add-two-numbers.kt)|中等|
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [kotlin](./problem/3.longest-substring-without-repeating-characters.kt)|中等|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [java](./problem/21.merge-two-sorted-lists.java)|简单|
+|28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [java](./problem/28.implement-strstr.java)|简单|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [java](./problem/35.search-insert-position.java)|简单|
 |65|[有效数字](https://leetcode-cn.com/problems/valid-number/) | [kotlin](./problem/65.valid-number.kt)|困难|
 |75|[颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [java](./problem/75.sort-colors.java)|中等|
