@@ -16,3 +16,5 @@ LeetCode
 |111|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [java](./problem/111.minimum-depth-of-binary-tree.java)|简单|
 |146|[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [java](./problem/146.lru-cache.java)|困难|
 |148|[排序链表](https://leetcode-cn.com/problems/sort-list/) | [java](./problem/148.sort-list.java)|中等|
+|206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [java](./problem/206.reverse-linked-list.java)|简单|
+|344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [java](./problem/344.reverse-string.java)|简单|
